@@ -1,2 +1,2 @@
 Alterações sobre git diff.
-Alteração no conteúdo de um arquivo, como exemplo. 
+Alteração no conteúdo de um arquivo, como exemplo e exclusão do mesmo no gitignore. 
